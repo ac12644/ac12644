@@ -32,5 +32,5 @@
 
 [website]: http://portfolio-654af.web.app/
 [linkedin]: https://www.linkedin.com/in/ac12644/
-[blank]: 
+[blank]: https://ac12644.github.io/bio
 
