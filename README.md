@@ -26,7 +26,7 @@
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
 [<img align="left" alt="MySQL" width="26px" src="https://github.com/ac12644/ac12644/blob/main/icons/mysql.png?raw=true" />]
 [<img align="left" alt="GitHub" width="26px" src="https://github.com/ac12644/ac12644/blob/main/icons/github.png?raw=true" />]
-[<img align="left" alt="Firebase" width="26px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" />]
+[<img align="left" alt="Firebase" width="20px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" />]
 <br />
 [website]: http://portfolio-654af.web.app/
 [linkedin]: https://www.linkedin.com/in/ac12644/
