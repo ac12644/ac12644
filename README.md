@@ -32,5 +32,4 @@
 
 [website]: http://portfolio-654af.web.app/
 [linkedin]: https://www.linkedin.com/in/ac12644/
-[blank]: https://ac12644.github.io/bio
-
+[blank]: https://github.com/ac12644/ac12644/tree/main/icons
