@@ -1,6 +1,6 @@
 ### Hi, I'm Abhishek. 👋
 
-## I'm a Student, Developer!!
+## I'm a Student, Front-End Developer!!
 
 - 🔭 I'm currently working on creating News website!
 - 🌱 I’m currently learning server side programming.
