@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning server side programming.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Become full stack web developer
-- ⚡ Fun fact: I love to design website
+- ⚡ Fun fact: I love to search new technologies
 
 
 ### Connect with me:
