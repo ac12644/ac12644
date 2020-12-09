@@ -2,9 +2,7 @@
 
 ## I'm a Student, Front-End Developer!!
 
-- 🔭 I'm currently working on creating News website!
-- 🌱 I’m currently learning server side programming.
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 currently learning back-end development
 - 🥅 2021 Goals: Become full stack web developer
 - ⚡ Fun fact: I love to search new technologies
 
