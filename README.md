@@ -25,7 +25,9 @@
 [<img align="left" alt="MySQL" width="26px" src="https://github.com/ac12644/ac12644/blob/main/icons/mysql.png?raw=true" />][blank]
 [<img align="left" alt="GitHub" width="26px" src="https://github.com/ac12644/ac12644/blob/main/icons/github.png?raw=true" />][blank]
 [<img align="left" alt="Firebase" width="20px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" />][blank]
+[<img align="left" alt="MongoDB" width="20px" src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" />][blank]
 <br />
+
 
 
 [website]: http://portfolio-654af.web.app/
