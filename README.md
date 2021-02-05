@@ -2,7 +2,6 @@
 
 ## I'm a Student, Front-End Developer!!
 
-- 🌱 currently learning back-end development
 - 🥅 2021 Goals: Become guru in full stack web developer
 - ⚡ Fun fact: I love to implement new technologies
 
