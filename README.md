@@ -2,7 +2,7 @@
 
 ## I'm a Student, Front-End Developer!!
 
-- 🥅 2021 Goals: Become guru in full stack web developer
+- 🥅 2021 Goals: Become Blockchain developer
 - ⚡ Fun fact: I love to implement new technologies
 
 
