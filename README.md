@@ -1,8 +1,8 @@
 ### Hi, I'm Abhishek. 👋
 
-## I'm a Student, Web Developer!!
+## I'm a Student, Solution Architect!!
 
-- 🥅 2021 Goals: Get Google Cloud Architect certificate
+- 🥅 2021 Goals: Specialize in Blockchain
 - ⚡ Fun fact: I am constant learner and love to implement new technologies
 
 
