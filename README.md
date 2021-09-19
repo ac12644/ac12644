@@ -16,7 +16,6 @@
 
 ### Languages and Tools
 [<img align="left" alt="GCS" width="26px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />][blank]
-[<img align="left" alt="AWS" width="46px" src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" />][blank]
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/240px-Python-logo-notext.svg.png" />][blank]
 [<img align="left" alt="HTML5" width="26px" src="https://github.com/ac12644/ac12644/blob/main/icons/html-5.png?raw=true" />][blank]
 [<img align="left" alt="CSS3" width="26px" src="https://github.com/ac12644/ac12644/blob/main/icons/css.png?raw=true" />][blank]
