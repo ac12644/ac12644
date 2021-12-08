@@ -1,8 +1,9 @@
-### Hi, I'm Abhishek. 👋
+### Hii! I'm Abhishek. 👋
 
-## I'm a Student, Solution Architect!!
+## I'm an IT Solution Architect!!
 
-- 🥅 2021 Goals: Specialize in Blockchain
+- 🥅 2021 Goals: Specialize in Blockchain[completed]
+- 🥅 2022 Goals: Building new blockchain network
 - ⚡ Fun fact: I am constant learner and love to implement new technologies
 
 
