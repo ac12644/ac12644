@@ -3,7 +3,7 @@
 ## I'm an IT Solution Architect!!
 
 - 🥅 2021 Goals: Specialize in Blockchain[completed]
-- 🥅 2022 Goals: Get Cloud Certified & Building new blockchain network
+- 🥅 2022 Goals: Get Cloud Certified & Building new Metaverse Marketplace
 - ⚡ Fun fact: I am constant learner and love to implement new technologies
 
 
