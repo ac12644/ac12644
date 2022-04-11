@@ -1,6 +1,6 @@
-### Hii! I'm Abhishek. 👋
+### Hii! I'm Abhishek 👋
 
-## I'm an IT Solution Architect!!
+## I'm a Blockchain Architect!!
 
 - 🥅 2022 Goals: Building new Metaverse Marketplace and decentralized e-commerce store
 - 🥅 2021 Goals: Specialize in Blockchain[completed]
