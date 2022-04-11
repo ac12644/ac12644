@@ -2,7 +2,7 @@
 
 ## I'm a Blockchain Architect!!
 
-- 🥅 2022 Goals: Building new Metaverse Marketplace and decentralized e-commerce store
+- 🥅 2022 Goals: Building new Metaverse Marketplace[60%] and decentralized e-commerce store[30%]
 - 🥅 2021 Goals: Specialize in Blockchain[completed]
 - ⚡ Fun fact: I am constant learner and love to implement new technologies
 
