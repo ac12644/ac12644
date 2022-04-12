@@ -16,7 +16,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
  
  <img align="right" alt="GIF" src="https://github.com/ac12644/ac12644/blob/3db65484becc509129f3f37af4b2e6cc56358b82/icons/code.gif" width="500" height="320" />
 
-- 💬 [ask](mailto:abhishekchauhan150@gmail.com) me about anything, i'm happy to help :)
+- 💬[ask](mailto:abhishekchauhan150@gmail.com) me about anything, i'm happy to help :)
 
 
 ### 📝 Latest Blog Posts
