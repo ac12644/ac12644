@@ -50,5 +50,5 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="buymeacoffee.com/?via=ac12644" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/ac12644" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
