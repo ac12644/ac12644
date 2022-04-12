@@ -1,4 +1,5 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/ac12644/ac12644/blob/main/icons/world.png?raw=true" />][website]
 <a href="https://www.linkedin.com/in/ac12644/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -13,7 +14,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/ac12644/ac12644/blob/main/icons/world.png?raw=true" />][website]
+
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://github.com/ac12644/ac12644/blob/main/icons/linkedin.png?raw=true" />][linkedin]
 
 
