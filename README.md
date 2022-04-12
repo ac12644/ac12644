@@ -26,7 +26,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - [What Is Blockchain Oracle?](https://betterprogramming.pub/what-is-blockchain-oracle-ce2ad4a46c08)
 - [Understanding Ethereum Cryptography](https://betterprogramming.pub/understanding-ethereum-cryptography-3ef7429eddce)
 
-<br />
 ### Languages and Tools
 <code><img height="20" src="https://ethereum.org/static/a183661dd70e0e5c70689a0ec95ef0ba/6ed5f/eth-diamond-purple.webp"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></code>
@@ -50,6 +49,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!-- TODO-IST:END -->
 
 <br />
+
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/ac12644" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="130" ></a>
