@@ -20,7 +20,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <br />
 ## 📝 Latest Blog Posts
-- [Create Blockchain With Node.js](https://betterprogramming.pub/create-blockchain-with-node-js-e65dfc40479e)
+- [Create Blockchain With Node.js](https://betterprogramming.pub/create-blockchain-with-node-js-e65dfc40479e/)
 - [Implementing Smart Contracts Using Vyper — A Python Approach](https://betterprogramming.pub/implementing-smart-contracts-using-vyper-a-pythonapproach-95f9299e64d8)
 - [Create a Full Stack NFT Marketplace on the Polygon Network](https://betterprogramming.pub/create-a-full-stack-nft-marketplace-on-the-polygonnetwork-20176b3a9e33)
 - [What Is Blockchain Oracle?](https://betterprogramming.pub/what-is-blockchain-oracle-ce2ad4a46c08)
@@ -28,17 +28,18 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ### Languages and Tools
 <code><img height="20" src="https://ethereum.org/static/a183661dd70e0e5c70689a0ec95ef0ba/6ed5f/eth-diamond-purple.webp"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/240px-Python-logo-notext.svg.png"></code>
+<code><img height="20" src="https://github.com/ac12644/ac12644/blob/main/icons/html-5.png?raw=true"></code>
+<code><img height="20" src="https://github.com/ac12644/ac12644/blob/main/icons/css.png?raw=true"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://github.com/ac12644/ac12644/blob/main/icons/react.png?raw=true"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://github.com/ac12644/ac12644/blob/main/icons/github.png?raw=true"></code>
+<code><img height="20" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png"></code>
+<code><img height="20" src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png"></code>
 
-[<img align="left" alt="GCS" width="26px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />][blank]
-[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/240px-Python-logo-notext.svg.png" />][blank]
-[<img align="left" alt="HTML5" width="26px" src="https://github.com/ac12644/ac12644/blob/main/icons/html-5.png?raw=true" />][blank]
-[<img align="left" alt="CSS3" width="26px" src="https://github.com/ac12644/ac12644/blob/main/icons/css.png?raw=true" />][blank]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][blank]
-[<img align="left" alt="React" width="26px" src="https://github.com/ac12644/ac12644/blob/main/icons/react.png?raw=true" />][blank]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][blank]
-[<img align="left" alt="GitHub" width="26px" src="https://github.com/ac12644/ac12644/blob/main/icons/github.png?raw=true" />][blank]
-[<img align="left" alt="Firebase" width="20px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" />][blank]
-[<img align="left" alt="MongoDB" width="76px" src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" />][blank]
+
 <br />
 
 🚧 **my todoist stats:**
@@ -47,5 +48,5 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ✅  Completed blockchain specialization       
 <!-- TODO-IST:END -->
 
-[blank]: https://github.com/ac12644/ac12644/tree/main/icons
+
 
