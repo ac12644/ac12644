@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/ac12644/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ac12644.visitor-badge)
+![](https://visitor-badge.glitch.me/badge?page_id=ac12644)
 
 <br />
 hi, i'm Abhishek Chauhan, a passionate self-taught blokchain architect and a full stack engineer. i take great care in the experience, architecture, and code quality of the things I build.
