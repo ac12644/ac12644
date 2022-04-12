@@ -3,7 +3,7 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://ac12644.github.io/bio">
-  <img align="left" alt="portfolio" width="22px" src="https://github.com/ac12644/ac12644/blob/main/icons/world.png?raw=true" />
+  <img align="left" alt="portfolio" width="22px" src="https://github.com/ac12644/ac12644/blob/28288c1e8608b67a9dd16443ba4d5f36f661b112/icons/web.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ac12644)
