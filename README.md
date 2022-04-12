@@ -10,12 +10,11 @@ hi, i'm Abhishek Chauhan, a passionate self-taught blokchain architect and a ful
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-- 💬 [ask](mailto:abhishekchauhan150@gmail.com) me about anything, i am happy to help :)
 
 - 🥅 2022 Goals: Building new Metaverse Marketplace[60%] and decentralized e-commerce store[30%]
 - 🥅 2021 Goals: Specialize in Blockchain[completed]
 - ⚡ Fun fact: I am constant learner and love to implement new technologies
-
+- 💬 [ask](mailto:abhishekchauhan150@gmail.com) me about anything, i am happy to help :)
 
 <br />
 
