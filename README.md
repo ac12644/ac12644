@@ -9,10 +9,12 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=ac12644)
 
 <br />
+
 hi, i'm Abhishek Chauhan, a passionate self-taught blokchain architect and a full stack engineer. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
+ 
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 💬 [ask](mailto:abhishekchauhan150@gmail.com) me about anything, i am happy to help :)
 
@@ -25,7 +27,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - [Understanding Ethereum Cryptography](https://betterprogramming.pub/understanding-ethereum-cryptography-3ef7429eddce)
 
 ### Languages and Tools
-[<img align="left" alt="ethereum" width="16px" src="https://ethereum.org/static/a183661dd70e0e5c70689a0ec95ef0ba/6ed5f/eth-diamond-purple.webp" />][blank]
+<code><img height="20" src="https://ethereum.org/static/a183661dd70e0e5c70689a0ec95ef0ba/6ed5f/eth-diamond-purple.webp"></code>
+
 [<img align="left" alt="GCS" width="26px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />][blank]
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/240px-Python-logo-notext.svg.png" />][blank]
 [<img align="left" alt="HTML5" width="26px" src="https://github.com/ac12644/ac12644/blob/main/icons/html-5.png?raw=true" />][blank]
@@ -44,6 +47,5 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ✅  Completed blockchain specialization       
 <!-- TODO-IST:END -->
 
-[linkedin]: https://www.linkedin.com/in/ac12644/
 [blank]: https://github.com/ac12644/ac12644/tree/main/icons
 
