@@ -42,5 +42,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ✅  Completed blockchain specialization       
 <!-- TODO-IST:END -->
 
-
+[website]: http://portfolio-654af.web.app/
+[linkedin]: https://www.linkedin.com/in/ac12644/
+[blank]: https://github.com/ac12644/ac12644/tree/main/icons
 
