@@ -9,7 +9,7 @@
 hi, i'm Abhishek Chauhan, a passionate self-taught blokchain architect and a full stack engineer. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 
 - 💬 [ask](mailto:abhishekchauhan150@gmail.com) me about anything, i am happy to help :)
 
