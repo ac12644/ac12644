@@ -11,9 +11,6 @@ hi, i'm Abhishek Chauhan, a passionate self-taught blokchain architect and a ful
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 🥅 2022 Goals: Building new Metaverse Marketplace[60%] and decentralized e-commerce store[30%]
-- 🥅 2021 Goals: Specialize in Blockchain[completed]
-- ⚡ Fun fact: I am constant learner and love to implement new technologies
 - 💬 [ask](mailto:abhishekchauhan150@gmail.com) me about anything, i am happy to help :)
 
 <br />
@@ -38,8 +35,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 [<img align="left" alt="MongoDB" width="76px" src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" />][blank]
 <br />
 
+🚧 **my todoist stats:**
+<!-- TODO-IST:START -->
+🛠️  Building new Metaverse Marketplace[60%] and decentralized e-commerce store[30%]                  
+✅  Completed blockchain specialization       
+<!-- TODO-IST:END -->
 
 
-[website]: http://portfolio-654af.web.app/
-[linkedin]: https://www.linkedin.com/in/ac12644/
-[blank]: https://github.com/ac12644/ac12644/tree/main/icons
+
