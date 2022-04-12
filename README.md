@@ -40,7 +40,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png"></code>
 
 
-<br />
 
 ### 🚧 my todoist stats
 <!-- TODO-IST:START -->
