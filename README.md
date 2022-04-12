@@ -17,7 +17,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 💬 [ask](mailto:abhishekchauhan150@gmail.com) me about anything, i am happy to help :)
 
 <br />
-**📝 Latest Blog Posts**
+## 📝 Latest Blog Posts
 - [Create Blockchain With Node.js](https://betterprogramming.pub/create-blockchain-with-node-js-e65dfc40479e)
 - [Implementing Smart Contracts Using Vyper — A Python Approach](https://betterprogramming.pub/implementing-smart-contracts-using-vyper-a-pythonapproach-95f9299e64d8)
 - [Create a Full Stack NFT Marketplace on the Polygon Network](https://betterprogramming.pub/create-a-full-stack-nft-marketplace-on-the-polygonnetwork-20176b3a9e33)
