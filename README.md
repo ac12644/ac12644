@@ -1,3 +1,4 @@
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ac12644.visitor-badge)
 ### Hii! I'm Abhishek 👋
 
 ## I'm a Blockchain Architect!!
