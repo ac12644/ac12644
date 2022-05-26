@@ -24,7 +24,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - [create blockchain with node.js](https://betterprogramming.pub/create-blockchain-with-node-js-e65dfc40479e/)
 - [implementing smart contracts using vyper — a python approach](https://betterprogramming.pub/implementing-smart-contracts-using-vyper-a-pythonapproach-95f9299e64d8)
 - [create a full stack nft marketplace on the polygon network](https://betterprogramming.pub/create-a-full-stack-nft-marketplace-on-the-polygonnetwork-20176b3a9e33)
-- [what is blockchain oracle?](https://betterprogramming.pub/what-is-blockchain-oracle-ce2ad4a46c08)
 - [understanding ethereum cryptography](https://betterprogramming.pub/understanding-ethereum-cryptography-3ef7429eddce)
 
 ### languages and tools
