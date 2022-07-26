@@ -35,9 +35,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ac12644&theme=default&show_icons=true) -->
 
 <!-- CURRENT-STATS:START -->
-### 🚧 my current statUs
+### 🚧 my current status
 ✍️   writing on web3
+
 🛠️  building decentralized virtual event platform                 
+
 ✅  completed blockchain specialization       
 <!-- CURRENT-STATS:END -->
 
