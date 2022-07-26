@@ -34,11 +34,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!-- GITHUB STATS -->
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ac12644&theme=default&show_icons=true) -->
 
-### 🚧 my todoist stats
-<!-- TODO-IST:START -->
+<!-- CURRENT-STATS:START -->
+### 🚧 my current statUs
+✍️   writing on web3
 🛠️  building decentralized virtual event platform                 
 ✅  completed blockchain specialization       
-<!-- TODO-IST:END -->
+<!-- CURRENT-STATS:END -->
 
 <br />
 
