@@ -39,8 +39,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ✍️   writing on web3
 
 🛠️  building decentralized virtual event platform                 
-
-✅  completed blockchain specialization       
+    
 <!-- CURRENT-STATS:END -->
 
 <br />
