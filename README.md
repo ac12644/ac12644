@@ -9,7 +9,7 @@
   <img align="left" alt="medium" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111505.png" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=ac12644)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=ac12644) -->
 
 <br />
 
