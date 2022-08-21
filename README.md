@@ -9,8 +9,6 @@
   <img align="left" alt="medium" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111505.png" />
 </a>
 
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=ac12644) -->
-
 <br />
 
 hi, i'm Abhishek Chauhan, a passionate self-taught blokchain architect and a full stack engineer. i take great care in the experience, architecture, and code quality of the things I build.
