@@ -17,7 +17,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
  
  <img align="right" alt="GIF" src="https://github.com/ac12644/ac12644/blob/main/icons/coding.gif" width="500" height="320" />
  
-- 💬 [ask](mailto:abhishekchauhan150@gmail.com) me, i'm happy to help :)
+- 💬 [ask](mailto:ac12644@gmail.com) me, i'm happy to help :)
 
 ### 📝 latest posts
 - [create initial coin offering smart contract in solidity](https://betterprogramming.pub/create-your-initial-coin-offering-ico-contract-in-ethereum-5a94ec3e2337)
