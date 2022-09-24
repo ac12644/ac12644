@@ -37,6 +37,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ### 🚧 my current status
 ✍️   writing on web3
 
+🌐  converting web2 to web3
+
 🛠️  building decentralized virtual event platform                 
     
 <!-- CURRENT-STATS:END -->
