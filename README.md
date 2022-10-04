@@ -20,8 +20,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 💬 [ask](mailto:ac12644@gmail.com) me, i'm happy to help :)
 
 ### 📝 latest posts
+- [designing a supply chain smart contract](https://betterprogramming.pub/supply-chain-smart-contract-design-e0ae5071bcbe)
 - [create initial coin offering smart contract in solidity](https://betterprogramming.pub/create-your-initial-coin-offering-ico-contract-in-ethereum-5a94ec3e2337)
-- [a complete guide to designing and shipping a blockchain solution for a business](https://betterprogramming.pub/how-to-design-a-real-world-blockchain-solution-91463b8e31a6)
 - [create blockchain with node.js](https://betterprogramming.pub/create-blockchain-with-node-js-e65dfc40479e/)
 - [implementing smart contracts using vyper — a python approach](https://betterprogramming.pub/implementing-smart-contracts-using-vyper-a-pythonapproach-95f9299e64d8)
 - [create a full stack nft marketplace on the polygon network](https://betterprogramming.pub/create-a-full-stack-nft-marketplace-on-the-polygonnetwork-20176b3a9e33)
