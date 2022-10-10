@@ -38,7 +38,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ✍️   writing on blockchain solutions development
 <br />
-🛠️  building decentralized virtual event platform                 
+🛠️  building decentralized virtual event platform @[Virtualground](https://virtualground.it/)                 
     
 <!-- CURRENT-STATS:END -->
 
