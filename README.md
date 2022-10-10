@@ -37,6 +37,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ### 🚧 my current status
 
 ✍️   writing on blockchain solutions development
+<br />
 🛠️  building decentralized virtual event platform                 
     
 <!-- CURRENT-STATS:END -->
