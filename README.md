@@ -17,7 +17,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
  
  <img align="right" alt="GIF" src="https://github.com/ac12644/ac12644/blob/main/icons/coding.gif" width="500" height="320" />
  
-- 💬 [ask](mailto:ac12644@gmail.com) me, i'm open to collab :)
+<!-- - 💬 [ask](mailto:ac12644@gmail.com) me, i'm open to collab :) --> 
 
 ### 📝 latest posts
 - [designing a supply chain smart contract](https://betterprogramming.pub/supply-chain-smart-contract-design-e0ae5071bcbe)
