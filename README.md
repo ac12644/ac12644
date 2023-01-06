@@ -20,6 +20,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!-- - 💬 [ask](mailto:ac12644@gmail.com) me, i'm open to collab :) --> 
 
 ### 📝 latest posts
+- [storing medical records on blockchain](https://betterprogramming.pub/storing-medical-records-on-blockchain-18e9a076b28b)
 - [designing a supply chain smart contract](https://betterprogramming.pub/supply-chain-smart-contract-design-e0ae5071bcbe)
 - [create initial coin offering smart contract in solidity](https://betterprogramming.pub/create-your-initial-coin-offering-ico-contract-in-ethereum-5a94ec3e2337)
 - [create blockchain with node.js](https://betterprogramming.pub/create-blockchain-with-node-js-e65dfc40479e/)
