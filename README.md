@@ -1,8 +1,5 @@
 ### hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-<a href="https://www.linkedin.com/in/ac12644/">
-  <img align="left" alt="Abhishek's LinkedIN" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 <a href="https://ac12644.github.io/bio/">
   <img align="left" alt="portfolio" width="20px" src="https://github.com/ac12644/ac12644/blob/625022d4d792964adde3bf3cc531501fb8de5cbb/icons/world.png" />
 </a>
@@ -11,9 +8,7 @@
 </a>
 <br/>
 <br/>
-i'm abhishek chauhan👨‍💻, a passionate web3 developer. i take great care in the experience, architecture, and code quality of the things i build.
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+i'm abhishek chauhan👨‍💻, a passionate web3 developer. i am an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
  
  <img align="right" alt="GIF" src="https://github.com/ac12644/ac12644/blob/main/icons/coding.gif" width="500" height="320" />
  
