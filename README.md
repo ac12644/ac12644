@@ -3,6 +3,9 @@
 <a href="https://ac12644.github.io/bio/">
   <img align="left" alt="portfolio" width="20px" src="https://github.com/ac12644/ac12644/blob/625022d4d792964adde3bf3cc531501fb8de5cbb/icons/world.png" />
 </a>
+<a href="https://www.linkedin.com/in/ac12644/">
+  <img align="left" alt="Abhishek's LinkedIN" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 <a href="https://abhishek-chauhan.medium.com/">
   <img align="left" alt="medium" width="20px" src="https://cdn-icons-png.flaticon.com/512/2111/2111505.png" />
 </a>
