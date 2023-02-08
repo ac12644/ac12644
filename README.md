@@ -11,7 +11,7 @@
 </a>
 <br/>
 <br/>
-🚀 i'm abhishek chauhan 👨‍💻, a web3 developer fueled by passion 🔥. with a focus on user experience 🤝, architecture 🏢, and code quality 💻, i take pride in building things right 💯. as an open-source enthusiast 💡 and maintainer 🤖, i understand the power of collaboration 🤝 and knowledge sharing 💡. the open-source community has taught me so much 🧠, and i love giving back through my contributions 💻. let's build amazing things together! 🚀
+i'm abhishek chauhan 👨‍💻, a web3 developer fueled by passion 🔥. with a focus on user experience 🤝, architecture 🏢, and code quality, i take pride in building things right 💯. as an open-source enthusiast 💡 and maintainer 🤖, i understand the power of collaboration 🤝 and knowledge sharing 💡. the open-source community has taught me so much 🧠, and i love giving back through my contributions 💻. let's build amazing things together! 🚀
  
  <img align="right" alt="GIF" src="https://github.com/ac12644/ac12644/blob/main/icons/coding.gif" width="500" height="320" />
  
