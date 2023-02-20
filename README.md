@@ -18,6 +18,8 @@ i'm abhishek chauhan 👨‍💻, a web3 developer fueled by passion 🔥. with 
 <!-- - 💬 [ask](mailto:ac12644@gmail.com) me, i'm open to collab :) --> 
 
 ### 📝 latest posts
+
+- [building enterprise-grade workflows with smart contracts on blockchain](https://medium.com/better-programming/building-enterprise-grade-workflows-with-smart-contracts-on-blockchain-6fa559a8110)
 - [storing medical records on blockchain](https://betterprogramming.pub/storing-medical-records-on-blockchain-18e9a076b28b)
 - [designing a supply chain smart contract](https://betterprogramming.pub/supply-chain-smart-contract-design-e0ae5071bcbe)
 - [create initial coin offering smart contract in solidity](https://betterprogramming.pub/create-your-initial-coin-offering-ico-contract-in-ethereum-5a94ec3e2337)
