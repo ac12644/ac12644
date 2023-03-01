@@ -40,6 +40,7 @@ i'm abhishek chauhan 👨‍💻, a web3 developer fueled by passion 🔥. with 
 ✍️   writing on blockchain solutions development
 <br />
 🛠️  building decentralized NFT marketpace for wine trading @[DeCellar](https://www.decellar.io/) 
+<br />
 🛠️  building decentralized virtual event platform @[Virtualground](https://virtualground.it/)                 
     
 <!-- CURRENT-STATS:END -->
