@@ -1,17 +1,17 @@
 ### hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 <a href="https://ac12644.github.io/bio/">
-  <img align="left" alt="portfolio" width="20px" src="https://github.com/ac12644/ac12644/blob/625022d4d792964adde3bf3cc531501fb8de5cbb/icons/world.png" />
+  <img align="left" alt="portfolio abhishek" width="20px" src="https://github.com/ac12644/ac12644/blob/625022d4d792964adde3bf3cc531501fb8de5cbb/icons/world.png" />
 </a>
 <a href="https://www.linkedin.com/in/ac12644/">
-  <img align="left" alt="Abhishek's LinkedIN" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="linkedin" width="20px" src="https://img.icons8.com/?size=512&id=8808&format=png" />
 </a>
 <a href="https://abhishek-chauhan.medium.com/">
   <img align="left" alt="medium" width="20px" src="https://cdn-icons-png.flaticon.com/512/2111/2111505.png" />
 </a>
 <br/>
 <br/>
-i'm abhishek chauhan 👨‍💻, a web3 developer fueled by passion 🔥. with a focus on user experience 🤝, architecture 🏢, and code quality, i take pride in building things right 💯. as an open-source enthusiast 💡 and maintainer 🤖, i understand the power of collaboration 🤝 and knowledge sharing 💡. the open-source community has taught me so much 🧠, and i love giving back through my contributions 💻. let's build amazing things together! 🚀
+i'm abhishek chauhan 👨‍💻, a web3 developer fueled by passion 🔥. with a focus on user experience, architecture, and code quality, i take pride in building things right 💯. as an open-source enthusiast and maintainer, i understand the power of collaboration and knowledge sharing. the open-source community has taught me so much 🧠, and i love giving back through my contributions 💻. let's build amazing things together! 🚀
  
  <img align="right" alt="GIF" src="https://github.com/ac12644/ac12644/blob/main/icons/coding.gif" width="500" height="320" />
  
@@ -20,10 +20,10 @@ i'm abhishek chauhan 👨‍💻, a web3 developer fueled by passion 🔥. with 
 ### 📝 latest posts
 
 - [building enterprise-grade workflows with smart contracts on blockchain](https://medium.com/better-programming/building-enterprise-grade-workflows-with-smart-contracts-on-blockchain-6fa559a8110)
+- [create blockchain with node.js](https://betterprogramming.pub/create-blockchain-with-node-js-e65dfc40479e/)
 - [storing medical records on blockchain](https://betterprogramming.pub/storing-medical-records-on-blockchain-18e9a076b28b)
 - [designing a supply chain smart contract](https://betterprogramming.pub/supply-chain-smart-contract-design-e0ae5071bcbe)
 - [create initial coin offering smart contract in solidity](https://betterprogramming.pub/create-your-initial-coin-offering-ico-contract-in-ethereum-5a94ec3e2337)
-- [create blockchain with node.js](https://betterprogramming.pub/create-blockchain-with-node-js-e65dfc40479e/)
 - [implementing smart contracts using vyper — a python approach](https://betterprogramming.pub/implementing-smart-contracts-using-vyper-a-pythonapproach-95f9299e64d8)
 - [create a full stack nft marketplace on the polygon network](https://betterprogramming.pub/create-a-full-stack-nft-marketplace-on-the-polygonnetwork-20176b3a9e33)
 - [mathematics behind ethereum & bitcoin cryptography](https://betterprogramming.pub/understanding-ethereum-cryptography-3ef7429eddce)
@@ -73,14 +73,10 @@ i'm abhishek chauhan 👨‍💻, a web3 developer fueled by passion 🔥. with 
 <!-- CURRENT-STATS:START -->
 ### 🚧 my current status
 
-✍️   writing on blockchain solutions development
-<br />
-🛠️  building NFT marketpace for wine trading @[DeCellar](https://www.decellar.io/) 
-<br />
-🛠️  building decentralized virtual event platform @[Virtualground](https://virtualground.it/)                 
-    
-<!-- CURRENT-STATS:END -->
+-  diving into ₿-ordinals
+-  building nft marketplace for wines @[decellar](https://www.decellar.io/)
 
+<!-- CURRENT-STATS:END -->
 <br />
 
 
