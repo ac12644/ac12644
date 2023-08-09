@@ -17,7 +17,7 @@ i'm abhishek chauhan 👨‍💻, a web3 developer fueled by passion 🔥. with 
  
 <!-- - 💬 [ask](mailto:ac12644@gmail.com) me, i'm open to collab :) --> 
 
-### 📝 latest posts
+### 📝 learn dapp development
 
 - [building enterprise-grade workflows with smart contracts on blockchain](https://medium.com/better-programming/building-enterprise-grade-workflows-with-smart-contracts-on-blockchain-6fa559a8110)
 - [create blockchain with node.js](https://betterprogramming.pub/create-blockchain-with-node-js-e65dfc40479e/)
