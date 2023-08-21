@@ -19,9 +19,9 @@ i'm abhishek chauhan 👨‍💻, a web3 developer fueled by passion 🔥. with 
 
 ### 📝 learn dapp development
 
+- [using cpfp to speed up bitcoin transactions](https://medium.com/coinmonks/using-cpfp-to-speed-up-bitcoin-transactions-36e0871b256c)
 - [building enterprise-grade workflows with smart contracts on blockchain](https://medium.com/better-programming/building-enterprise-grade-workflows-with-smart-contracts-on-blockchain-6fa559a8110)
 - [create blockchain with node.js](https://betterprogramming.pub/create-blockchain-with-node-js-e65dfc40479e/)
-- [storing medical records on blockchain](https://betterprogramming.pub/storing-medical-records-on-blockchain-18e9a076b28b)
 - [designing a supply chain smart contract](https://betterprogramming.pub/supply-chain-smart-contract-design-e0ae5071bcbe)
 - [create initial coin offering smart contract in solidity](https://betterprogramming.pub/create-your-initial-coin-offering-ico-contract-in-ethereum-5a94ec3e2337)
 - [implementing smart contracts using vyper — a python approach](https://betterprogramming.pub/implementing-smart-contracts-using-vyper-a-pythonapproach-95f9299e64d8)
