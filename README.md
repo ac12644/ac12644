@@ -17,12 +17,12 @@ i'm abhishek chauhan 👨‍💻, a web3 developer fueled by passion 🔥. with 
 
 ### 📝 learn dapp development
 
+- <a href="https://medium.com/coinmonks/bitcoin-lc-workflow-with-nodejs-38ad7b17f32f" target="_blank">bitcoin letter of credit workflow</a>
 - <a href="https://medium.com/coinmonks/create-a-bitcoin-multi-signature-escrow-with-node-js-b38589810382" target="_blank">create a bitcoin multi-signature escrow with node.js 🚀</a>
 - <a href="https://medium.com/coinmonks/time-locked-bitcoin-transactions-4f4e70523fb2" target="_blank">time-locked bitcoin transactions</a>
 - <a href="https://medium.com/coinmonks/using-cpfp-to-speed-up-bitcoin-transactions-36e0871b256c" target="_blank">using cpfp to speed up bitcoin transactions</a>
 - <a href="https://medium.com/better-programming/building-enterprise-grade-workflows-with-smart-contracts-on-blockchain-6fa559a8110" target="_blank">building enterprise-grade workflows with smart contracts on blockchain</a>
 - <a href="https://betterprogramming.pub/create-blockchain-with-node-js-e65dfc40479e/" target="_blank">create blockchain with node.js</a>
-- <a href="https://betterprogramming.pub/create-your-initial-coin-offering-ico-contract-in-ethereum-5a94ec3e2337" target="_blank">create initial coin offering smart contract in solidity</a>
 - <a href="https://betterprogramming.pub/understanding-ethereum-cryptography-3ef7429eddce" target="_blank">mathematics behind ethereum & bitcoin cryptography</a>
 
    [📙 MORE](https://abhishek-chauhan.medium.com/)
