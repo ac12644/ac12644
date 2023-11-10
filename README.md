@@ -23,7 +23,7 @@ i'm abhishek chauhan 👨‍💻, a web3 developer fueled by passion 🔥. with 
 - <a href="https://medium.com/coinmonks/using-cpfp-to-speed-up-bitcoin-transactions-36e0871b256c" target="_blank">using cpfp to speed up bitcoin transactions</a>
 - <a href="https://medium.com/better-programming/building-enterprise-grade-workflows-with-smart-contracts-on-blockchain-6fa559a8110" target="_blank">building enterprise-grade workflows with smart contracts on blockchain</a>
 - <a href="https://betterprogramming.pub/create-blockchain-with-node-js-e65dfc40479e/" target="_blank">create blockchain with node.js</a>
-- <a href="https://betterprogramming.pub/understanding-ethereum-cryptography-3ef7429eddce" target="_blank">mathematics behind ethereum & bitcoin cryptography</a>
+- <a href="https://betterprogramming.pub/understanding-ethereum-cryptography-3ef7429eddce" target="_blank">understanding ethereum and bitcoin cryptography</a>
 
    [📙 MORE](https://abhishek-chauhan.medium.com/)
 
