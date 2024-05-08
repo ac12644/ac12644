@@ -73,7 +73,7 @@ i'm abhishek chauhan 👨‍💻, a web3 developer fueled by passion 🔥. with 
 ### 🚧 my current status
 
 -  diving into ₿-ordinals
--  building nft marketplace for wines @[decellar](https://www.decellar.io/)
+-  building @[invebit](https://invebit.com/)
 
 <!-- CURRENT-STATS:END -->
 <br />
