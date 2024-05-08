@@ -71,8 +71,6 @@ i'm abhishek chauhan 👨‍💻, a web3 developer fueled by passion 🔥. with 
 
 <!-- CURRENT-STATS:START -->
 ### 🚧 my current status
-
--  diving into ₿-ordinals
 -  building @[invebit](https://invebit.com/)
 
 <!-- CURRENT-STATS:END -->
