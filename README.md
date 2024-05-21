@@ -69,12 +69,6 @@ i'm abhishek chauhan 👨‍💻, a web3 developer fueled by passion 🔥. with 
 <!-- GITHUB STATS -->
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ac12644&theme=default&show_icons=true) -->
 
-<!-- CURRENT-STATS:START -->
-### 🚧 my current status
--  building @[invebit](https://invebit.com/)
-
-<!-- CURRENT-STATS:END -->
-<br />
 <br />
 
 ### Bitcoin Layer 2 Solutions: Overview of Scalability and Technical Specifications
