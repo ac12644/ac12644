@@ -76,10 +76,10 @@ hi, i'm abhishek chauhan 👨‍💻, a passionate blockchain architect speciali
 
 | CHAIN NAME    | STATUS     | TYPE OF NETWORK     | PROGRAMMING LANGUAGE | TX's FEES PAID TO MINERS | CONSENSUS MODEL       | BTC PEG MECHANISM | SETTLES ON BITCOIN | SEQUENCING MODEL | TOTAL BTC TVL |
 |---------------|------------|---------------------|----------------------|--------------------------|-----------------------|-------------------|--------------------|------------------|---------------|
-| Lightning     | 🟢 Mainnet | P2P                 | Script               | No* 🚫                   | P2P+POW               | Native (HTLC)     | Yes ✅             | Atomic           | 4,611         |
-| Liquid        | 🟢 Mainnet | Sidechain           | Script               | No 🚫                    | Federation            | HSM Multisig      | No ❌              | Federated        | 3,834         |
-| Rootstock     | 🟢 Mainnet | Sidechain           | EVM                  | Yes ✅                    | Merged-mining         | POWPEG            | Hash on L1        | Decentralized    | 2,755         |
-| Stacks        | 🟢 Mainnet | Sidechain           | Clarity              | No* 🚫                   | Proof-of-Transfer     | N/A               | Hash on L1        | Decentralized    | 303           |
+| Lightning     | 🟢 Mainnet | P2P                 | Script               | No* 🚫                   | P2P+POW               | Native (HTLC)     | Yes ✅             | Atomic           | 11,000         |
+| Liquid        | 🟢 Mainnet | Sidechain           | Script               | No 🚫                    | Federation            | HSM Multisig      | No ❌              | Federated        | 6,840         |
+| Rootstock     | 🟢 Mainnet | Sidechain           | EVM                  | Yes ✅                    | Merged-mining         | POWPEG            | Hash on L1        | Decentralized    | 6,165         |
+| Stacks        | 🟢 Mainnet | Sidechain           | Clarity              | No* 🚫                   | Proof-of-Transfer     | N/A               | Hash on L1        | Decentralized    | 4,158           |
 | RGB           | 🟢 Mainnet | Distributed P2P State | Rust              | Yes ✅                    | Client side validation| N/A               | Hash on L1        | Distributed      | Not tracked   |
 | Bob           | 🟢 Mainnet | Sidechain/Rollup    | EVM                  | Yes ✅                    | Merged-mining         | TBTC/BITVM        | Hash on L1        | Centralized      | 0             |
 | Mercury Layer | 🔵 Testnet | Statechain          | Script               | No 🚫                    | Blinded server        | Native            | Yes ✅             | N/A              | 0             |
