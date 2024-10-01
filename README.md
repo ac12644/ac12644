@@ -9,7 +9,7 @@
 </a>
 <br/>
 <br/>
-hello! i'm abhishek chauhan 👨‍💻, a dedicated blockchain architect specializing in btc-l2 and ethereum. i strive to deliver exceptional user experiences through robust architecture and high-quality code 💯. as an open-source enthusiast and maintainer, i value collaboration and knowledge sharing deeply 🧠. the open-source community has greatly influenced my journey, and i enjoy contributing back through my projects 💻. let's collaborate to build amazing things together! 🚀
+hello! i'm abhishek chauhan 👨‍💻, a dedicated blockchain architect specializing in btc-l2 and ethereum. the open-source community has greatly influenced my journey, and i enjoy contributing back through my projects 💻. let's collaborate to build amazing things together! 🚀
 
  <img align="right" alt="GIF" src="https://github.com/ac12644/ac12644/blob/main/icons/coding.gif" width="500" height="320" />
  
