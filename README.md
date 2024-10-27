@@ -69,26 +69,5 @@ hello! i'm abhishek chauhan 👨‍💻, a dedicated blockchain architect specia
 <!-- GITHUB STATS -->
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ac12644&theme=default&show_icons=true) -->
 
-<br />
-
-### Bitcoin Layer 2 Solutions: Overview of Scalability and Technical Specifications
-
-
-| CHAIN NAME    | STATUS     | TYPE OF NETWORK     | PROGRAMMING LANGUAGE | TX's FEES PAID TO MINERS | CONSENSUS MODEL       | BTC PEG MECHANISM | SETTLES ON BITCOIN | SEQUENCING MODEL | TOTAL BTC TVL |
-|---------------|------------|---------------------|----------------------|--------------------------|-----------------------|-------------------|--------------------|------------------|---------------|
-| Lightning     | 🟢 Mainnet | P2P                 | Script               | No* 🚫                   | P2P+POW               | Native (HTLC)     | Yes ✅             | Atomic           | 11,000         |
-| Liquid        | 🟢 Mainnet | Sidechain           | Script               | No 🚫                    | Federation            | HSM Multisig      | No ❌              | Federated        | 6,840         |
-| Rootstock     | 🟢 Mainnet | Sidechain           | EVM                  | Yes ✅                    | Merged-mining         | POWPEG            | Hash on L1        | Decentralized    | 6,165         |
-| Stacks        | 🟢 Mainnet | Sidechain           | Clarity              | No* 🚫                   | Proof-of-Transfer     | N/A               | Hash on L1        | Decentralized    | 4,158           |
-| RGB           | 🟢 Mainnet | Distributed P2P State | Rust              | Yes ✅                    | Client side validation| N/A               | Hash on L1        | Distributed      | Not tracked   |
-| Bob           | 🟢 Mainnet | Sidechain/Rollup    | EVM                  | Yes ✅                    | Merged-mining         | TBTC/BITVM        | Hash on L1        | Centralized      | 0             |
-| Mercury Layer | 🔵 Testnet | Statechain          | Script               | No 🚫                    | Blinded server        | Native            | Yes ✅             | N/A              | 0             |
-| Botanix       | 🔵 Testnet | Sidechain           | EVM                  | No 🚫                    | Proof-of-Stake        | Spiderchain       | Hash on L1        | Decentralized    | 0             |
-| Citrea        | 🔴 Not Live| Rollup              | EVM                  | Yes ✅                    | ZK Proof              | BITVM             | BITVM              | Centralized      | 0             |
-
-Note:
-* The asterisk next to "No" in the TX's fees paid to miners indicates that some portion of network usage requires L1 transactions, which excludes bridge mechanisms.
-
-
 
 
