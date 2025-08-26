@@ -35,43 +35,85 @@
 [📙 Explore More](https://abhishek-chauhan.medium.com/)
 
 ---
-### 💻 Languages and Tools
+### 💻 Languages & Tools  
 
 <p align="left">
+  <!-- Blockchain -->
   <a href="https://docs.soliditylang.org/" target="_blank">
-    <img src="https://docs.soliditylang.org/en/v0.8.13/_static/logo.svg" alt="Solidity" width="30" height="30" style="margin-right: 10px; vertical-align: middle;" />
+    <img src="https://docs.soliditylang.org/en/v0.8.13/_static/logo.svg" alt="Solidity" width="30" height="30" />
+  </a>
+  <a href="https://hardhat.org/" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz4i1wWF516fnkizp1WSDG5rnG8GfkQAVoVQ&s" alt="Hardhat" width="30" height="30" />
+  </a>
+  <a href="https://book.getfoundry.sh/" target="_blank">
+    <img src="https://getfoundry.sh/foundry-logo.png" alt="Foundry" width="30" height="30" />
   </a>
   <a href="https://ipfs.tech/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" alt="IPFS" width="30" height="30" style="margin-right: 10px; vertical-align: middle;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" alt="IPFS" width="30" height="30" />
   </a>
-  <a href="https://trufflesuite.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/trufflesuite/trufflesuite.com/c97121409c83436a94bfbcc39e166adc38369175/src/img/truffle-logo-dark.svg" alt="Truffle" width="30" height="30" style="margin-right: 10px; vertical-align: middle;" />
+  <a href="https://thegraph.com/" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo0p489sFlss7HSIKcPQOQoC0FdzyQ7AsGVg&s" alt="The Graph" width="30" height="30" />
+  </a>
+
+  <!-- Frontend -->
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30" height="30" />
   </a>
   <a href="https://redux.js.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="30" height="30" style="margin-right: 10px; vertical-align: middle;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="30" height="30" />
   </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://redux.js.org/img/redux-logo-landscape.png" alt="Redux" width="55" height="30" style="margin-right: 10px; vertical-align: middle;" />
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="30" height="30" />
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30" />
+  </a>
+
+  <!-- Backend -->
   <a href="https://nodejs.org" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1180px-Node.js_logo.svg.png" alt="Node.js" width="50" height="30" style="margin-right: 10px; vertical-align: middle;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30" />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://en.vetores.org/d/mongodb.svg" alt="MongoDB" width="70" height="30" style="margin-right: 10px; vertical-align: middle;" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="30" height="30" style="margin-right: 10px; vertical-align: middle;" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="30" height="30" style="margin-right: 10px; vertical-align: middle;" />
-  </a>
-  <a href="https://kubernetes.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="30" height="30" style="margin-right: 10px; vertical-align: middle;" />
-  </a>
-  <a href="https://cloud.google.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="30" height="30" style="margin-right: 10px; vertical-align: middle;" />
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="30" height="30" />
   </a>
   <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30" style="margin-right: 10px; vertical-align: middle;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30" />
+  </a>
+
+  <!-- Databases -->
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" height="30" />
+  </a>
+  <a href="https://supabase.com/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" alt="Supabase" width="30" height="30" />
+  </a>
+  <a href="https://redis.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="30" height="30" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="30" height="30" />
+  </a>
+
+  <!-- Infra -->
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30" height="30" />
+  </a>
+  <a href="https://kubernetes.io" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="30" height="30" />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="AWS" width="30" height="30" />
+  </a>
+  <a href="https://cloud.google.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="30" height="30" />
+  </a>
+  <a href="https://github.com/features/actions" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions" width="30" height="30" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" height="30" />
   </a>
 </p>
