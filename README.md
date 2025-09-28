@@ -14,9 +14,9 @@
   <a href="https://abhishek-chauhan.medium.com/" rel="noreferrer noopener">
     <img alt="Medium" src="https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium">
   </a>
-  <a href="https://github.com/ac12644?tab=repositories" rel="noreferrer noopener">
-    <img alt="Repos" src="https://img.shields.io/badge/Portfolio-Repos-181717?style=for-the-badge&logo=github">
-  </a>
+<a href="https://www.abhishekchauhan.it" rel="noreferrer noopener">
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Website-181717?style=for-the-badge&logo=vercel">
+</a>
 </p>
 
 <p align="center">
