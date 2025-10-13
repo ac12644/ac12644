@@ -249,8 +249,8 @@ USD token + LC Manager + LC contracts; React frontend (Polygon Mumbai).<br/>
 </p>
 
 <p>
-  <a href="mailto:ac12644@gmail.com" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Email-Book%20a%20chat-blue?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/ac12644/" rel="noreferrer noopener"><img src="https://img.shields.io/badge/LinkedIn-Message-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:ac12644@gmail.com" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/ac12644/" rel="noreferrer noopener"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 <p align="right"><a href="#top">Back to top ↑</a></p>
