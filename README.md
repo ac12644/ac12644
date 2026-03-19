@@ -2,7 +2,7 @@
 
 I build at the intersection of **blockchain** and **AI agents** — shipping tokenized workflows, multisig escrows, and agentic backends that run in production.
 
-Currently focused on **Bitcoin L2**, **EVM chains**, and **LangGraph**-powered automation.
+Currently building **AI agents** that automate enterprise workflows — from revenue ops to document processing to on-chain settlement.
 
 `20+ production deployments` · `6+ published articles` · `open to consulting`
 
