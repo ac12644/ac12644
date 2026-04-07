@@ -1,4 +1,4 @@
-# Namastey, I am Abhishek 👋
+# Hello, I am Abhishek 👋
 
 I build at the intersection of **blockchain** and **AI agents** — shipping tokenized workflows, multisig escrows, and agentic backends that run in production.
 
